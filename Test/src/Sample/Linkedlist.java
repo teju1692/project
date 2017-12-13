@@ -5,7 +5,7 @@ import java.util.Iterator;
 import java.util.LinkedList;
 import java.util.List;
 import java.util.ListIterator;
-
+//this is second  commit
 public class Linkedlist extends AbstractSequentialList implements List,Deque{
 	public static void main(String args[])
 	{
